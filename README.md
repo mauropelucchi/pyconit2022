@@ -9,9 +9,9 @@ In this tutorial I'll show you how to use python to set up model and analytics t
 
 This repo contains slides and code for Mauro Pelucchi's "Data Ingestion and Big Data" @ EuroPython 2021.
 
-- [Access slides](https://github.com/mauropelucchi/pyconit2022/blob/main/PyConIT_2022_Financial_Crisis.pdf))
-- [Access notebook (colab)](https://github.com/mauropelucchi/pyconit2022/blob/main/Financial_crisis.ipynb))
-- [Dataset][https://github.com/mauropelucchi/pyconit2022/blob/main/StockBond.xlsx]
+- [Access slides](https://github.com/mauropelucchi/pyconit2022/blob/main/PyConIT_2022_Financial_Crisis.pdf)
+- [Access notebook (colab)](https://github.com/mauropelucchi/pyconit2022/blob/main/Financial_crisis.ipynb)
+- [Dataset][https://github.com/mauropelucchi/pyconit2022/blob/main/StockBond.xlsx)
 
 # MIT License
 
